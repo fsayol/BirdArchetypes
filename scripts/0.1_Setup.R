@@ -2,9 +2,7 @@
 
 ## TO BE SET BY THE USER:
 # Define main working directory (Repository folder):
-RepoFolder <-"/Users/fsayol/BirdArchetypes/"
-# TODO: Delete:
-RepoFolder <-"/Users/fsayol/My Drive/2_ResearchProjects/A3_PigotLab/P1_Archetypes/Repository_DataCode/BirdArchetypes_v2/"
+RepoFolder <- "/Users/fsayol/BirdArchetypes/"
 
 # Load packages:
 library(archetypes)
